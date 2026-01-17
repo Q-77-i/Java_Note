@@ -194,11 +194,11 @@ HelloWorld案例是指在计算机屏幕上输出“HelloWorld”这行文字。
 
 **注意**：代码要跟我编写的完全保持一致。
 
-public class HelloWorld {  
-    public static void main(String[] args) {  
-        System.out.println("HelloWorld");  
-    }  
-}
+`public class HelloWorld {`  
+    `public static void main(String[] args) {`  
+        `System.out.println("HelloWorld");`  
+    `}`  
+`}`
 
 3. 保存
     
